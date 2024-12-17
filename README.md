@@ -1,7 +1,7 @@
 # Text-to-Image Generator
 
-We present models to perform text to image generation and image reconstruc-
-tion using a conditional VAE (CVAE) trained on Fashion-MNIST for short-text
+We present models to perform text to image generation and image reconstruction 
+using a conditional VAE (CVAE) trained on Fashion-MNIST for short-text
 and COCO for long-text with a CLIP feature extractor. In total, three main ex-
 periments were run. The first experiment involved short-text model architecture
 investigation between fully connected and a convolutional CVAE, where the con-
