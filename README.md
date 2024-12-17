@@ -1,4 +1,4 @@
-# text-to-image-gen
+# Text-to-Image Generator
 
 We present models to perform text to image generation and image reconstruc-
 tion using a conditional VAE (CVAE) trained on Fashion-MNIST for short-text
